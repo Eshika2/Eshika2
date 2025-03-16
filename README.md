@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshika</h1>
 
-![photo_2025-03-16_19-35-20](https://github.com/user-attachments/assets/b84dac73-40fe-4d0d-b192-a7a48fe2b6cd)
-
+<!--![photo_2025-03-16_19-35-20](https://github.com/user-attachments/assets/b84dac73-40fe-4d0d-b192-a7a48fe2b6cd)
+-->
 <h3 align="center">Passionate about Web Development & Software Engineering</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika2&label=Profile%20views&color=0e75b6&style=flat" alt="eshika2" /> </p>
