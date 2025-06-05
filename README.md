@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Learning **Angular Course & Laravel Course.**
 
-- 🌱 I’m currently self studying **Angular, MERN, Java Quizzes, etc...**
+- 🌱 I’m currently Working as a **Intern Backend Developer Aventure IT Soulutions**
 
 - 💬 Ask me about **Java, DSA Questions**
 
