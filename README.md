@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently Learning **Angular Course & Laravel Course.**
 
-- 🌱 I’m currently Working as a **Intern Backend Developer Aventure IT Soulutions**
+- 🌱 I’m currently Working as a **Intern Backend Developer** at **Aventure IT Soulutions**
 
 - 💬 Ask me about **Java, DSA Questions**
 
