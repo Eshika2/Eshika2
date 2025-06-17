@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently Working as a **Intern Backend Developer** at **Aventure IT Soulutions**
 
-- 💬 Ask me about **Java, DSA Questions**
+- 💬 Ask me about **Java, DSA Questions,..**
 
 - 📫 How to reach me **eshikadissanayake2003@gmail.com**
 
