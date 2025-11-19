@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika2&label=Profile%20views&color=0e75b6&style=flat" alt="eshika2" /> </p>
 
-- 🔭 I’m currently Learning **Angular Course & Laravel Course.**
+- 🔭 I’m currently Learning **MERN Course.**
 
 - 🌱 I’m currently Working as a **Intern Backend Developer** at **Aventure IT Soulutions**
 
