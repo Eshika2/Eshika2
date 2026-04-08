@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1VJUrjEabyn4mBl60bzgB8cwZWqbbdGbr/view?usp=sharing
 
-- ⚡ Fun fact **I think I am Funny. Do you think I am Funny?**
+- ⚡ Fun fact **I am really good at any sport.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
