@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently Working as an **Intern Backend Developer** at **Aventure IT Soulutions**
 
-- 💬 Ask me about **Java, DSA Questions,...**
+- 💬 Ask me about **Java, Laravel, MERN, DSA Questions,...**
 
 - 📫 How to reach me **eshikadissanayake2003@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1VJUrjEabyn4mBl60bzgB8cwZWqbbdGbr/view?usp=sharing
+- 📄 Know about my experiences **https://drive.google.com/file/d/1wNTV6G5NN-5xOp96EoLDvlvIeqfvFp6i/view?usp=sharing**
 
-- ⚡ Fun fact **I am really good at any sport.**
+- ⚡ Fun fact : **I am really good at any sport.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
