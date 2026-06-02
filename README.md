@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshika2&label=Profile%20views&color=0e75b6&style=flat" alt="eshika2" /> </p>
 
 # 💫 About Me:
-🔭 I’m currently Learning a **MERN Course.**<br>🌱 I’m currently Working as an **Intern Backend Developer at Aventure IT Soulutions**<br>💬 Ask me about **Java, Laravel, MERN, DSA Questions,...**<br>📫 How to reach me **eshikadissanayake2003@gmail.com**<br>📄 Know about my experiences **https://drive.google.com/file/d/1NDdGt3CS5iim0M6AMbNewkONWCEo6F32/view?usp=sharing** <br>⚡ Fun fact : **I am really good at any sport.**
+🔭 I’m currently Learning a **MERN Course.**<br>🌱 I’m currently Working as an **Associate Backend Developer at Aventure IT Soulutions**<br>💬 Ask me about **Java, Laravel, MERN, DSA Questions,...**<br>📫 How to reach me **eshikadissanayake2003@gmail.com**<br>📄 Know about my experiences **https://drive.google.com/file/d/1NDdGt3CS5iim0M6AMbNewkONWCEo6F32/view?usp=sharing** <br>⚡ Fun fact : **I am really good at any sport.**
 
 
 # 🌐 Socials:
