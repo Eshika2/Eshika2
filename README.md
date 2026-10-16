@@ -105,7 +105,7 @@ fun_fact:  "I'm really good at any sport 🏆"
 <br/>
 
 <!-- ═══════════════════ STATS ═══════════════════ -->
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 <div align="center">
 
@@ -125,11 +125,14 @@ fun_fact:  "I'm really good at any sport 🏆"
 <br/>
 
 <!-- ═══════════════════ QUOTE ═══════════════════ -->
+<!--
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
 </div>
+
+-->
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%" alt="footer" />
