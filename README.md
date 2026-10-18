@@ -128,11 +128,11 @@ fun_fact:  "I'm really good at any sport 🏆"
 <!--
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
-</div>
+<!--═══════════════════ SNAKE ═══════════════════ -->
+🐍 Contribution Snake
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eshika2/Eshika2/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eshika2/Eshika2/output/github-snake.svg" /> <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Eshika2/Eshika2/output/github-snake.svg" /> </picture> </div>
 
--->
 
 <!-- ═══════════════════ FOOTER ═══════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=120&section=footer" width="100%" alt="footer" />
